@@ -1,4 +1,7 @@
 Magda Tyton
 git
 The Guardian
+<<<<<<< HEAD
 czarny
+=======
+>>>>>>> aaa
